@@ -10,7 +10,7 @@ var Ember = { assert: function() {}, FEATURES: { isEnabled: function() {} } };
 // ==========================================================================
 
 
- // Version: 1.3.0-beta.1
+ // Version: 1.4.0-beta.1+canary.4ffecd62 
 
 (function() {
 /**
